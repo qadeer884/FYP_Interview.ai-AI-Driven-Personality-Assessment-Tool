@@ -14,25 +14,25 @@ By integrating multiple AI models, **Interview.ai** provides an efficient and sc
 
 ### Features  
 - **Multi-Modal Analysis**: Combines insights from video, audio, and text data for a comprehensive personality evaluation.  
-- **Automation**: Streamlines the recruitment process by replacing manual evaluations with AI-driven predictions.  
+- **Automation**: Web appliaction the recruitment process by replacing manual evaluations with AI-driven predictions.  
 - **Adaptability**: Can be fine-tuned for various industries and roles.  
 
 ---
 
 ### How It Works  
-1. **Data Input**: A video of the candidate's interview is uploaded.  
+1. **Data Input**: A video of the candidate's interview is recorded .  
 2. **AI Analysis**: The system evaluates the video for:  
    - **Visual Cues**: Body language, expressions.  
    - **Speech Patterns**: Vocal tone, pauses, and pitch.  
    - **Linguistic Insights**: Analyzes the spoken content for sentiment and structure.  
-3. **Output**: Generates a personality score based on the integrated analysis from all modalities.  
+3. **Output**: Generates a personality score based on the integrated analysis from all modalities and saved it for report.  
 
 ---
 
 ### Technologies  
 - **Programming**: Python  
 - **Key Libraries**: TensorFlow, OpenCV, Librosa, SpeechRecognition, MoviePy  
-- **Future Deployment**: Flask for web integration  
+- **Deployment**: Flask for web integration  
 
 ---
 
